@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hiantohendry/Tata/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/hiantohendry/Tata/app/build/intermediates/pre-dexed/debug/classes-1abdf982fde8f2b2e6d215826af85e9e1b0ac1d3.jar" />
+    </item>
+    <item
+        jar="/Users/hiantohendry/Tata/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/hiantohendry/Tata/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-0939798a8bfe86f282627186d874176bd0402f00.jar" />
+    </item>
+    <item
+        jar="/Users/hiantohendry/Tata/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/hiantohendry/Tata/app/build/intermediates/pre-dexed/debug/classes-1afd5c474aafd6f4aba9e692ba4151aba65bc488.jar" />
+    </item>
+    <item
+        jar="/Users/hiantohendry/Tata/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="/Users/hiantohendry/Tata/app/build/intermediates/pre-dexed/debug/classes-8fea3614794468d151f45a4015f334e018577ab3.jar" />
+    </item>
+    <item
+        jar="/Users/hiantohendry/Tata/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/hiantohendry/Tata/app/build/intermediates/pre-dexed/debug/classes-9877d95e3d6f14f9068192f2c05b1c2077c8fc00.jar" />
+    </item>
+    <item
+        jar="/Users/hiantohendry/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/hiantohendry/Tata/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-5c5f6d1b9b27e4e86bcc1469a3e9d475fde78732.jar" />
+    </item>
+    <item
+        jar="/Users/hiantohendry/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/hiantohendry/Tata/app/build/intermediates/pre-dexed/debug/glide-3.5.2-4b4de9b4720d566c3a62000f6f33d13fb0f1e23f.jar" />
+    </item>
+    <item
+        jar="/Users/hiantohendry/Tata/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/hiantohendry/Tata/app/build/intermediates/pre-dexed/debug/classes-79b62a55616a92d2ca443511a4a18db19abec9a7.jar" />
+    </item>
+    <item
+        jar="/Users/hiantohendry/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/hiantohendry/Tata/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-ba3467caee2f54f7394f4fd3a430bf86508cbf40.jar" />
+    </item>
+
+</items>
